@@ -1,0 +1,28 @@
+{
+  "name": "mollgan",
+  "version": "1.0.5",
+  "description": "Mollgan",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "install": "node index.js",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoeldelPilar/Mollgan.git"
+  },
+  "keywords": [
+    "mollgan"
+  ],
+  "author": "Joel del Pilar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JoeldelPilar/Mollgan/issues"
+  },
+  "homepage": "https://github.com/JoeldelPilar/Mollgan#readme",
+  "dependencies": {
+    "boxen": "^7.0.2"
+  }
+}
